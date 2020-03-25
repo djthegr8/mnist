@@ -1,5 +1,5 @@
 # <i>LightSpeed</i> intro to DL
-This is the lightspeed intro to Deep Learning
+This is the <i>LightSpeed</i> intro to Deep Learning
 <br>
 Before all of you slightly-or-more experienced people tell me that I should've used CNN, <b>I know!</b><br>But its <i>LightSpeed</i>!
 <br>
