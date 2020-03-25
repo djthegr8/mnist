@@ -3,7 +3,7 @@ This is the <i>LightSpeed</i> intro to Deep Learning
 <br>
 The fastest way to get running with Deep Learning! MNIST digit recognition in 5 minutes!
 <br>
-To see the blog - https://achhaya.blogspot.com/2020/03/lightspeed-intro-to-deep-learning.html
+To see the blog - https://lightspeedac.blogspot.com/2020/03/lightspeed-intro-to-deep-learning.html
 <br>
 Before all of you slightly-or-more experienced people tell me that I should've used CNN, <b>I know!</b><br>But its <i>LightSpeed</i>!
 <br>
