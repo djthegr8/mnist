@@ -13,7 +13,7 @@ import keras
 #Ensuring that TensorFlow v1 is used as backend
 # %tensorflow_version 1.x 
 #Importing kinds of layers
-from keras.layers import Dense,Dropout,BatchNormalization
+from keras.layers import Dense,Dropout
 #Importing a basic model type
 from keras.models import Sequential
 #Importing the DIGIT CLASSIFIER dataset 
