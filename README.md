@@ -1,7 +1,7 @@
 # <i>LightSpeed</i> intro to DL
 This is the <i>LightSpeed</i> intro to Deep Learning
 <br>
-The fastest way to get running with Deep Learning! MNIST digit recognition in 5 minutes!
+The fastest way to get running with Deep Learning! Above 96% accuracy in MNIST digit recognition in 5 minutes!
 <br>
 To see the blog click <A href="https://lightspeedac.blogspot.com/2020/03/lightspeed-intro-to-deep-learning.html" target="_new">here</A>
 <br>
