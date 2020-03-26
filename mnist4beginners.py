@@ -61,7 +61,7 @@ Y_test = to_categorical(Y_test,num_classes)
 model = Sequential(name="my-first-NN")
 '''
 The first type of layer is the one we've talked about in blog.
-We are having one layer consisting of 32 units computing the same function, although with different parameters.
+We are having one layer consisting of 64 units computing the same function, although with different parameters.
 This will enable more complexity.
 The activation is ReLU, which is just a graph like _/ which eliminates negative numbers by giving them value of zero.
 To automatically build a model, the first layer needs to be given the shape of the input.
