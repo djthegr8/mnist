@@ -8,6 +8,14 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
+
+'''
+Code writen by Dweep Joshipura
+Blog - lightspeedac.blogspot.com
+Please read the comments carefully
+'''
+# Go to Edit->Notebook Settings->Hardware Accelerator->Select GPU and Save
+# Doing the above will speed up the training treemendously and Save time.
 #Importing Keras programming framework
 import keras 
 #Ensuring that TensorFlow v1 is used as backend
